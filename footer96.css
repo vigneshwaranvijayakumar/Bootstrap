@@ -1,0 +1,19 @@
+.ws{
+    width: 50px;
+  height: 50px;
+    background-color: grey;
+    border-radius:50%;
+    padding-left: 15px;
+    padding-top: 17px;
+    font-size: 19px;
+}
+@media screen and (max-width: 767.98px) {
+    .d{
+        margin-left:10px;
+       
+    }
+    .s{
+        text-align: center;
+        font-size: 19px;
+}
+    }
